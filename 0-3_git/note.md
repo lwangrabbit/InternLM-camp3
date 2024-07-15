@@ -5,4 +5,6 @@ https://github.com/InternLM/Tutorial/pull/976
 
 ###  二 .实践项目：构建个人项目
 
+https://github.com/lwangrabbit/InternLM-camp3
+
 
