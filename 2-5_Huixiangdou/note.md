@@ -106,17 +106,21 @@ ssh -CNg -L 7860:127.0.0.1:7860 root@ssh.intern-ai.org.cn -p 34773
 
 本机访问localhost:7860，并进行提问 ：
 
+第一个提问：
+
 <img src="./qa_ok_1.png" style="zoom:30%;" />
 
-
+第二个提问：
 
 <img src="./qa_ok_2.png" style="zoom: 30%;" />
 
-
+第三个提问：
 
 <img src="./qa_bad_1.png" style="zoom:30%;" />
 
-
+第四个提问：
 
 <img src="./qa_bad_2.png" style="zoom:30%;" />
+
+
 
